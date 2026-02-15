@@ -112,11 +112,10 @@ The following 12 features were selected for model training:
 
 ## Author
 
-**[Your Name]**  
-Course: Machine Learning Classification Assignment  
-Institution: [Your Institution Name]  
-Date: February 2026
+NEDUNURI SATYA SAI PRABHAKARA KAMESWAR
+Course: Machine Learning
+Month: February 2026
 
 ---
 
-**Last Updated:** February 15, 2026
+**Last Updated:** February 16, 2026
